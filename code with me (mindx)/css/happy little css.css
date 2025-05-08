@@ -1,0 +1,11 @@
+.header{
+    color: rgb(209, 141, 255);
+    background-color: ivory;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 175%;
+}
+.welcome{
+    font-size: larger 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: pink;
+}

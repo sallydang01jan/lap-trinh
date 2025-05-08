@@ -1,0 +1,11 @@
+.MePhuong{
+    font-family: cursive;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#maintheme{
+    background-color: ivory;
+    width: 80%;
+    justify-content: space-between;
+    outline: black 1px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

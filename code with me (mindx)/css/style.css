@@ -1,0 +1,9 @@
+
+.header{
+    position: fixed;
+    width: 50%;
+    background-color: ivory;
+    display: flex;
+    justify-content: space-between;
+
+}
